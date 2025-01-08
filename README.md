@@ -31,4 +31,4 @@ This repository contains a series of exercises to practice and understand Git ve
 4. Apply the stashed changes back to your working directory.
 5. Drop the stash once the changes are successfully applied.
 
-Complete each exercise by following the steps provided. For each exercise, we have already created a separate folder. Inside each folder, create a .txt file for the exercise and add the corresponding Git commands. Once you've completed this, push your changes to the repository.
+Complete each exercise by following the steps provided. For each exercise, create a separate folder of exercise. Inside each folder, create a .txt file for the exercise and add the corresponding Git commands. Once you've completed this, push your changes to the repository.
